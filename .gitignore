@@ -1,0 +1,18 @@
+# Build outputs
+*.o
+*.out
+a.out
+*.exe
+*.dSYM/
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test binaries generated locally
+/bin/
+/build/
